@@ -9,7 +9,7 @@ export default function TeamChallengesPage() {
     <div className="min-h-screen bg-slate-100 dark:bg-gray-900">
       <NavigationBar />
       <main className="container mx-auto px-4 py-8">
-        <h1 className="text-3xl font-bold mb-6 text-center">Team Challenges Platform</h1>
+        <h1 className="text-3xl font-bold mb-6 text-center">TeamUp, the Meetup platform</h1>
         <Tabs defaultValue="teams" className="w-full">
           <TabsList className="grid w-full grid-cols-3 mb-8">
             <TabsTrigger value="teams">Teams Section</TabsTrigger>
